@@ -1,0 +1,14 @@
+{
+  "name": "svg-components",
+  "version": "1.0.0",
+  "description": "A Node script to parse a directory of SVGs into JSX components for React applications",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Taylor Edwards",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.1.0"
+  }
+}
